@@ -16,7 +16,7 @@ const Common = (props) => {
                                         {props.subname}
                                     </h2>
                                     <div className="mt-3 align-center">
-                                        <NavLink to={props.visit} className="btn btn-outline-success my-2 my-sm-0 pa-5">{props.btname}</NavLink>
+                                        <NavLink to={props.visit} className="btn btn-primary my-2 my-sm-0 pa-5 bgB">{props.btname}</NavLink>
                                     </div>
                                 </div>
                                 <div className="col-lg-6 order-1 order-lg-2 header-img pv4">
