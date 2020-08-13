@@ -54,6 +54,12 @@ body{
   padding-bottom: 2rem;
 }
 
+.pv1 {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  font-size: larger;
+}
+
 .pt4 {
   padding-top: 4rem;
 }
@@ -68,9 +74,14 @@ body{
   padding-right: 4rem;
 }
 
-.pb2 {
+/* .pb2 {
   padding-bottom: 2rem;
   margin-bottom: 10px;
+} */
+
+.bgB{
+  background: hsl(110, 98%, 34%);
+  color: #fff;
 }
 
 .pv2 {
