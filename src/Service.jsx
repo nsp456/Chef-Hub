@@ -49,7 +49,7 @@ const Service = () => {
                         aria-label="Search"
                         onChange={updateSearch}
                     />
-                    <button className="btn btn-outline-success my-2 my-sm-0 w-25" type="submit">
+                    <button className="my-2 my-sm-0 w-25 bgB pv1" type="submit">
                         Search
                     </button>
                 </form>
