@@ -1,3 +1,27 @@
+# On this website, you can find the calories and ingredients required for making your favourite dishes just by searching in the search box below. Good Luck !!
+
+# Home Page:
+![alt text](https://github.com/nsp456/Chef-Hub/blob/master/Screenshots/home.JPG?raw=true)
+
+<br>
+
+# Services:
+# On searching, total of 10 results for that food item will be displayed.
+![alt text](https://github.com/nsp456/Chef-Hub/blob/master/Screenshots/service1.JPG?raw=true)
+![alt text](https://github.com/nsp456/Chef-Hub/blob/master/Screenshots/service2.JPG?raw=true)
+
+<br>
+
+# About:
+![alt text](https://github.com/nsp456/Chef-Hub/blob/master/Screenshots/about.JPG?raw=true)
+
+<br>
+
+# Contact:
+![alt text](https://github.com/nsp456/Chef-Hub/blob/master/Screenshots/contact.JPG?raw=true)
+
+<br>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
