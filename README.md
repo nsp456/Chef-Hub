@@ -1,6 +1,6 @@
-# This website is hosted at https://elegant-brown-fa74e5.netlify.app/
+## This website is hosted at https://elegant-brown-fa74e5.netlify.app/
 
-# On this website, you can find the calories and ingredients required for making your favourite dishes just by searching in the search box below. Good Luck !!
+## On this website, you can find the calories and ingredients required for making your favourite dishes just by searching in the search box below. Good Luck !!
 
 # Home Page:
 ![alt text](https://github.com/nsp456/Chef-Hub/blob/master/Screenshots/home.JPG?raw=true)
